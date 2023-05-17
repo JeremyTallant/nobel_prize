@@ -21,7 +21,7 @@ If you don't have a Jupyter environment set up, you can install Jupyter Notebook
 1. **The most Nobel of Prizes:** Load the required libraries and the Nobel Prize dataset.
 2. **So, who gets the Nobel Prize?:** Count up the Nobel Prizes. Also, split by `sex` and `birth_country`
 3. **USA dominance:** Create a DataFrame with two columns: decade and proportion of USA-born Nobel Prize winners that decade.
-4. **USA dominance, visualized:**
+4. **USA dominance, visualized:** Plot the proportion of USA born winners per decade.
 5. **What is the gender of a typical Nobel Prize winner?:**
 6. **The first woman to win the Nobel Prize:**
 7. **Repeat laureates:**
