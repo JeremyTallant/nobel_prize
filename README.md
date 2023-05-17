@@ -5,6 +5,18 @@ The Nobel Prize is perhaps the world's most well known scientific award. Every y
 Well, let's find out! What characteristics do the prize winners have? Which country gets it most often? And has anybody gotten it twice? It's up to you to figure this out.
 
 The [dataset](https://www.kaggle.com/datasets/nobelfoundation/nobel-laureates) used in this project is from The Nobel Foundation on Kaggle.
+## Usage
+Clone this repository and open the Jupyter notebook file (`*.ipynb`) in a Jupyter environment with Python kernel support. Make sure to install the required packages such as `pandas`, `numpy`, `seaborn`, and `matplotlib`. You can do this by running the following commands in a code cell within the notebook:
+```python
+!pip install pandas numpy matplotlib seaborn
+```
+Once the packages are installed, run the code cells in the notebook to generate the plots and analyses.
+
+If you don't have a Jupyter environment set up, you can install Jupyter Notebook and the Python kernel using the following steps:
+
+1. Install Jupyter Notebook by following the instructions on the [official Jupyter website](https://jupyter.org/install).
+
+2. Ensure you have Python installed. If not, you can download and install Python from the [official Python website](https://www.python.org/downloads/).
 ## Contents
 1. **The most Nobel of Prizes:**
 2. **So, who gets the Nobel Prize?:**
