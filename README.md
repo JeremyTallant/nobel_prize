@@ -19,7 +19,7 @@ If you don't have a Jupyter environment set up, you can install Jupyter Notebook
 2. Ensure you have Python installed. If not, you can download and install Python from the [official Python website](https://www.python.org/downloads/).
 ## Contents
 1. **The most Nobel of Prizes:** Load the required libraries and the Nobel Prize dataset.
-2. **So, who gets the Nobel Prize?:**
+2. **So, who gets the Nobel Prize?:** Count up the Nobel Prizes. Also, split by `sex` and `birth_country`
 3. **USA dominance:**
 4. **USA dominance, visualized:**
 5. **What is the gender of a typical Nobel Prize winner?:**
