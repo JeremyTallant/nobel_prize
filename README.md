@@ -23,7 +23,7 @@ If you don't have a Jupyter environment set up, you can install Jupyter Notebook
 3. **USA dominance:** Create a DataFrame with two columns: decade and proportion of USA-born Nobel Prize winners that decade.
 4. **USA dominance, visualized:** Plot the proportion of USA born winners per decade.
 5. **What is the gender of a typical Nobel Prize winner?:** Plot the proportion of female laureates by decade split by prize category.
-6. **The first woman to win the Nobel Prize:**
+6. **The first woman to win the Nobel Prize:** Extract and display the row showing the first woman to win a Nobel Prize.
 7. **Repeat laureates:**
 8. **How old are you when you get the prize?:**
 9. **Age differences between prize categories:**
