@@ -25,7 +25,7 @@ If you don't have a Jupyter environment set up, you can install Jupyter Notebook
 5. **What is the gender of a typical Nobel Prize winner?:** Plot the proportion of female laureates by decade split by prize category.
 6. **The first woman to win the Nobel Prize:** Extract and display the row showing the first woman to win a Nobel Prize.
 7. **Repeat laureates:** Extract and display the rows of repeat Nobel Prize winners.
-8. **How old are you when you get the prize?:**
+8. **How old are you when you get the prize?:** Calculate and plot the age of each winner when they won their Nobel Prize.
 9. **Age differences between prize categories:**
 10. **Oldest and youngest winners:**
 11. **You get a prize!:**
