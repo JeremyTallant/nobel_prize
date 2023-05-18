@@ -28,4 +28,4 @@ If you don't have a Jupyter environment set up, you can install Jupyter Notebook
 8. **How old are you when you get the prize?:** Calculate and plot the age of each winner when they won their Nobel Prize.
 9. **Age differences between prize categories:** Plot how old winners are within the different price categories.
 10. **Oldest and youngest winners:** Pick out the rows of the oldest and the youngest winner of a Nobel Prize.
-11. **You get a prize!:**
+11. **You get a prize!:** Assign the name of the youngest winner of a Nobel Prize to `youngest_winner`. The first name will suffice.
